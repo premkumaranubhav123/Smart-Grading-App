@@ -10,7 +10,8 @@ A smart, interactive grading application for educators — now available as both
 
 ## 🖼️ Screenshot
 
-![App Screenshot](screenshots/Screenshot.png)
+![App Screenshot](Screenshot_20250815_003457.png)
+![App Screenshot](Screenshot_20250815_003508.png)
 
 ---
 
